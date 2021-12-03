@@ -1,0 +1,16 @@
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\Pc Gamer\Desktop\ASPNETCore20-3633c1108bd5c7d9b3cfa2333755b88bf365a39f\Aulas\Projeto\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
